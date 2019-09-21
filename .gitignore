@@ -4,8 +4,6 @@
 /node_modules
 package-lock.json
 yarn.lock
-app/static/naruto
-app/static/jiraiya
 example.txt
 example.css
 
